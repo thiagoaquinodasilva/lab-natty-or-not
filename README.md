@@ -1,42 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Extremamente Aesthetic 🤓
 
-## 🚀 Introdução
+> Deep Aesthetic: Revivendo Obras de Arte Clássicas com Deepfake
 
-> Woooow! Look at this 👀
+## Descrição 📒
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Este projeto tem como objetivo utilizar a tecnologia de deepfake para dar vida a personagens de obras de arte clássicas, permitindo que eles contem suas histórias e contextualizem o período em que foram criados. Através dessa abordagem, buscamos oferecer uma experiência educacional imersiva e interativa, combinando história da arte com tecnologia moderna.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Tecnologias Utilizadas 🤖
 
-### Objetivos
+- DeepFaceLab: Para criação dos deepfakes.
+- StyleGAN2: Para gerar e aperfeiçoar características faciais dos personagens.
+- GPT-4: Para criar scripts e diálogos baseados em informações históricas.
+- Adobe After Effects: Para edição e montagem dos vídeos finais.
+- Audacity: Para edição de áudio e narração.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### Processo de Criação
 
-### Template
+1. Seleção das Obras de Arte: Escolhemos algumas obras de arte clássicas e seus personagens principais. Ex.: Mona Lisa, O Nascimento de Vênus, etc.
+2. Coleta de Dados: Reunimos informações detalhadas sobre cada obra e personagem para garantir uma contextualização histórica precisa.
+3. Criação de Scripts: Usando o GPT-4, geramos scripts que os personagens "falarão", descrevendo suas histórias, o contexto da obra, e curiosidades.
+4. Desenvolvimento dos Deepfakes: Utilizando o DeepFaceLab, aplicamos a tecnologia de deepfake nas imagens estáticas dos personagens, sincronizando suas falas com expressões 
+faciais realistas.
+5. Geração de Vídeo e Áudio: Combinamos os deepfakes gerados com narrações e trilha sonora, editando tudo no Adobe After Effects e Audacity.
+6. Refinamento: Ajustamos detalhes para garantir que a sincronização labial e a qualidade visual sejam as melhores possíveis.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Resultados 🚀
+O resultado final são vídeos curtos, de aproximadamente 2-3 minutos, onde personagens de obras de arte clássicas ganham vida e interagem com o público, contando suas histórias de maneira envolvente e educativa. Esse conteúdo pode ser utilizado em museus virtuais, aulas de história da arte, ou até mesmo em plataformas de mídia social para aumentar o interesse e o conhecimento sobre arte.
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Reflexão 💭
+Criar algo autêntico ("natty") com IA, especialmente usando deepfake, apresenta desafios únicos. Garantir a precisão histórica e respeitar a integridade das obras de arte enquanto se utiliza uma tecnologia que pode ser vista como controversa foi um processo delicado. No entanto, essa iniciativa mostra como a IA pode ser usada de maneira positiva e educativa, trazendo novas dimensões para o aprendizado e a apreciação da arte.
 
 ### Exemplos e Insigths
 
